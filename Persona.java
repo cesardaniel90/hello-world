@@ -1,0 +1,3 @@
+public Persona{
+	String nombre;
+}
